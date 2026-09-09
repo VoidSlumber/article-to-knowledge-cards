@@ -1,4 +1,4 @@
-# make-knowledge-cards
+# article-to-knowledge-cards
 
 把文章或本地 Markdown / TXT 文件转成结构化知识卡片，用于主动复习和间隔回顾。
 
