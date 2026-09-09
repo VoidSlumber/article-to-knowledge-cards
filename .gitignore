@@ -1,0 +1,12 @@
+# WorkBuddy 项目数据（含 AI 工作日志与内部决策记录，不公开）
+.workbuddy/
+
+# 编辑器与系统垃圾文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+*.log
